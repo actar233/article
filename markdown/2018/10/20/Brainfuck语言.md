@@ -1,8 +1,6 @@
 [@Title]:<>(Brainfuck语言)
-
 [@Date]:<>(2018-10-20 19:17:00)
-
-[@Tag]:<>(Brainfuck,编程)
+[@Tags]:<>(Brainfuck,编程)
 
 
 
