@@ -137,6 +137,6 @@ public class ClientHandler extends SimpleChannelInboundHandler {
 
 结果
 
-![1542333485877](https://4url.top/static/1542333485877.png)
+![1542333485877](http://47.93.219.234/static/1542333485877.png)
 
 这样就完成了Netty的基本使用
