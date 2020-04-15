@@ -41,9 +41,7 @@
 
 可拥有多个相同的标签,但只有第一个标签会生效
 
-## 追加
-
-* 2018-10-26
+## 追加 2018-10-26
 
 利用 Webhook 自动发布文章
 
@@ -69,4 +67,12 @@ http\[s]://{your-domain}/git/target/{your-token}
 * your-token: 这是你在上方 blog.properties 文件中设置的 token
 * 如果未设置token 地址为 /git/target
 
+## 追加 2020-04-14
 
+blog.properties 添加配置项 record (备案号)
+
+```
+record=XXXXXX
+```
+
+中文部分请使用 unicode 编码
