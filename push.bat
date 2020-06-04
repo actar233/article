@@ -1,6 +1,6 @@
 git add ./*
-git commit -m '娣诲姞鏂囩珷'
+git commit -m '添加文章'
 git push
 curl https://4url.top/git/target/123456789
-echo '鏇存柊瀹屾垚'
+echo '更新完成'
 pause

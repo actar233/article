@@ -1,5 +1,5 @@
 [@Title]:<>(Kubernetes 负载均衡 添加跨域)
-[@Date]:<>(2020-06-04 23:18:00)
+[@Date]:<>(2020-06-04 23:29:00)
 [@Tags]:<>(kubernets,Cors)
 
 
